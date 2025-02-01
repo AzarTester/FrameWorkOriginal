@@ -9,6 +9,9 @@
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="testCases.TC02_LoginTest" />
+			<class name="testCases.TC03_SearchTest" />
+			<class name="testCases.TC05_BrokenLink" />
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
